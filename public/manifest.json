@@ -1,0 +1,8 @@
+{
+  "name": "Prototype",
+  "id": "1092077160453525690",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "index.html",
+  "editorType": ["figma"]
+}

@@ -1,0 +1,23 @@
+.container_button{
+    display: flex;
+    margin-top: 10px;
+}
+.container_button-btn{
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#inputcolor{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 100px;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+}
+#inputcolor::-webkit-color-swatch {
+    border-radius: 100px;
+    border: none;
+}

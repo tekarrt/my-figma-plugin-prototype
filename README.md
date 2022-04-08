@@ -4,7 +4,5 @@
 
 Plugin created using boilerplate for creating Figma plugins using Svelte. More detailed about template: https://github.com/thomas-lowry/figma-plugin-ds-svelte
 
-Plugin has been submitted for review the figma team.
-
-At the moment there is no plugin in the community!
+Link: https://www.figma.com/community/plugin/1092077160453525690/Prototype
 
